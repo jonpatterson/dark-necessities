@@ -1,0 +1,24 @@
+{
+   "manifest_version": 2,
+   "name": "DARK NECESSITIES",
+   "version": "0.0.1",
+   "description": "Inspired by Material dark theme with default New Tab page.",
+   "theme": {
+      "colors": {
+        "bookmark_text": [ 224, 224, 224 ],
+        "button_background": [ 255, 255, 255, 0 ],
+        "frame": [ 12, 12, 12 ],
+        "frame_inactive": [ 39, 39, 39 ],
+        "frame_incognito": [ 12, 12, 12 ],
+        "frame_incognito_inactive": [ 39, 39, 39 ],
+        "ntp_background": [ 255, 255, 255 ],
+        "ntp_text": [ 60, 64, 67 ],
+        "tab_background_text": [ 160, 160, 160 ],
+        "tab_text": [ 224, 224, 224 ],
+        "toolbar": [ 60, 60, 60 ]
+      },
+      "tints": {
+        "buttons": [ 0, 0, 0.87 ]
+      }
+   }
+}
